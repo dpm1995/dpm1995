@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel May
 - 👀 I’m interested in gaming, geek culture, and where they intersect with coding.
-- 🌱 I’m currently learning CSS, Git, HTML, Java & Javascript, PostgreSQL, Responsive Design, Spring Boot, JUnit, Visual Studio 2019, and Vue.js
+- 🌱 I recently finished a coding boot camp where I learned CSS, Git, HTML, Java & Javascript, PostgreSQL, Responsive Design, Spring Boot, JUnit, Visual Studio 2019, and Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at dpmay2017@gmail.com
 
